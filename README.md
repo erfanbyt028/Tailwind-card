@@ -16,6 +16,7 @@ Features
 ✅ Interactive hover effects
 ✅ Optimized image loading
 ✅ Local storage preference saving
+
 dark mode : 
 ![Screenshot (21)](https://github.com/user-attachments/assets/fa9762c6-cbdd-44d2-8494-f9b8876faee5)
 normal mode :
